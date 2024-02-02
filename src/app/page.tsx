@@ -1,6 +1,6 @@
 import React from 'react'
 import { Grid } from '@radix-ui/themes';
-import HomeSideBar from './components/HomeSideBar';
+import HomeSideBar from './_components/HomeSideBar';
 
 export default function Home() {
   return (

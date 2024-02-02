@@ -12,6 +12,7 @@ const NavBar = () => {
         <li className='hover:text-one'><a href='/underconstruction'>Achivements</a></li>
         <li className='hover:text-one'><a href='/underconstruction'>Forms</a></li>
         <li className='hover:text-one'><a href='/login'>Log In</a></li>
+        <li className='hover:text-one'><a href='/signup'>Sign Up</a></li>
       </ul>
     </Box>
   );
