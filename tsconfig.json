@@ -32,7 +32,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-  ],
+, "src/app/api/getuser/getUser.js"  ],
   "exclude": [
     "node_modules"
   ]
